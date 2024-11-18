@@ -1,0 +1,14 @@
+{
+    "name": "wirduzen/shopware-meta",
+    "description": "Meta package for shopware projects. Provides recipes.",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Felix von WIRDUZEN",
+            "email": "felix@wirduzen.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
